@@ -75,3 +75,9 @@ This is a personal project for educational purposes. The original Flappy Bird co
 
 Enjoy playing!</content>
 <parameter name="filePath">c:\Users\tejas\OneDrive\Desktop\Flappy-Bird\README.md
+
+
+
+<img width="593" height="862" alt="image" src="https://github.com/user-attachments/assets/1bfa2ab1-1039-4fce-bbf0-1bae5e4578be" />
+
+
